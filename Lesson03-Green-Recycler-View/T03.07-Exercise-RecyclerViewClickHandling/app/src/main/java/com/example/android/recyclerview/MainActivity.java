@@ -23,7 +23,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-// COMPLTED (8) Implement GreenAdapter.ListItemClickListener from the MainActivity
+// COMPLETED (8) Implement GreenAdapter.ListItemClickListener from the MainActivity
 public class MainActivity extends AppCompatActivity implements GreenAdapter.ListItemClickListener {
 
     private static final int NUM_LIST_ITEMS = 100;
